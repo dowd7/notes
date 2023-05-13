@@ -1,3 +1,5 @@
+```Typescript
+
 orderGamesConsole() {
 
 }
@@ -10,3 +12,7 @@ orderGamesConsole() {
 		(error)=> {
 			this.errorMessage = 'Network issue! Ordering failed.'
 		}
+
+
+
+```
