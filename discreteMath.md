@@ -1,4 +1,4 @@
 ##Formulas
 
-![Alt text](image.png)
 
+![how to sum a geometric series](proving-the-formula.jpg)
