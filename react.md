@@ -1,3 +1,5 @@
+```css
+
 .nav {
     display: flex;
     justify-content: space-between;
@@ -16,3 +18,4 @@
 .nav-items > li {
     padding: 10px;
 }
+```
