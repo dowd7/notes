@@ -13,4 +13,11 @@ Catalan Numbers
 Discrete Probability
 
 ![image](https://github.com/dowd7/notes/assets/102552320/62a4c184-b282-4b9e-aa16-c36f4cbfe5a4)
+![image](https://github.com/dowd7/notes/assets/102552320/fd684946-923b-471e-aa41-90c741a2ab75)
+![image](https://github.com/dowd7/notes/assets/102552320/c8eb8a28-47a8-4fc6-b023-944d5dab09d7)
+![image](https://github.com/dowd7/notes/assets/102552320/1ac0ed07-d762-4f36-aa3e-6f1a90661ada)
+![image](https://github.com/dowd7/notes/assets/102552320/52a427d9-991a-4452-8b8f-9f73568a3dfd)
+
+Axioms of Probability
+
 
