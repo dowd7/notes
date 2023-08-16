@@ -17,3 +17,6 @@ How does a Smurf attack operate?
 Which software protection provides malware identification?
 
 Which device provides web content filtering and URL scanning?
+
+
+![image](https://github.com/dowd7/notes/assets/102552320/2ea9b647-25e7-4344-ad54-2c0fb9020ecd)
