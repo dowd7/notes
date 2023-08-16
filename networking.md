@@ -4,6 +4,8 @@ Which layer of the OSI model does a bridge use to make decisions about forwardin
 
 Which protocol provides remote access over encrypted connections?
 
+- SSH (secure shell host)
+
 Which layer of the OSI model establishes, manages, and terminates connections?
 
 - Layer 5: Session
@@ -12,7 +14,7 @@ What does the address resolution protocol (ARP) cache map?
 
 Which transmission control protocol/Internet protocol (TCP/IP) layer performs addressing and routing?
 
-A business uses 172.30.0.0/16 for its IP addressing. The business decides to divide the network into subnets and have each subnet support between 100 and 120 hosts.
+A business uses 172.30.0.0/16 for its IP addressing. The business decides to divide the network into subnets and have each subnet support between 100 and 120 hosts. Which subnet mask should the business use?
 
 How does a Smurf attack operate?
 
