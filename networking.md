@@ -1,6 +1,6 @@
 Which layer of the OSI model does a bridge use to make decisions about forwarding data packets?
 
-- Test
+- Layer 2: Data Link
 
 Which protocol provides remote access over encrypted connections?
 
