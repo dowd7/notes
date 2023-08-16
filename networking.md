@@ -6,6 +6,8 @@ Which protocol provides remote access over encrypted connections?
 
 Which layer of the OSI model establishes, manages, and terminates connections?
 
+- Layer 5: Session
+
 What does the address resolution protocol (ARP) cache map?
 
 Which transmission control protocol/Internet protocol (TCP/IP) layer performs addressing and routing?
