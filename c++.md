@@ -7,9 +7,11 @@ What is the standard input stream in C++?
 - cin
 
 What would this program print out? 
- 
+
+```
 int x;
     cout<<x;
+```
 
 - A random integer
 
