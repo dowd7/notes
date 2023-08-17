@@ -12,6 +12,8 @@ Which layer of the OSI model establishes, manages, and terminates connections?
 
 What does the address resolution protocol (ARP) cache map?
 
+- a dynamic IP address to a permanent physical machine address in a local area network (LAN)
+
 Which transmission control protocol/Internet protocol (TCP/IP) layer performs addressing and routing?
 
 A business uses 172.30.0.0/16 for its IP addressing. The business decides to divide the network into subnets and have each subnet support between 100 and 120 hosts. Which subnet mask should the business use?
