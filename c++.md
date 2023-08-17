@@ -8,7 +8,7 @@ What is the standard input stream in C++?
 
 What would this program print out? 
 
-```
+```c++
 int x;
     cout<<x;
 ```
