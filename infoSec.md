@@ -17,17 +17,17 @@ Which type of authentication uses unchanging physical characteristics to success
 
 Which statement should be included in a policy that defines how data confidentiality should be implemented?
 
-
+- how access will be protected
 
 An e-commerce organization discovers that its web server was compromised using stolen credentials.
 Which solution should be implemented to protect against this type of attack?
 
-
+- mfa
 
 An online discussion forum requires its users to verify they are at least 13 years old in order to register.
 Which Children’s Online Privacy Protection Rule (COPPA) compliance guideline is the forum following?
 
-
+- federal regulatory
 
 A small doctor’s office frequently transfers patient files electronically to other doctors’ offices and hospitals.
 Which law, regulation, or standard mandates protection and privacy of patient health data?
