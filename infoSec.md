@@ -1,6 +1,6 @@
 What should an organization implement to reject network traffic based on the contents of that traffic?
 
-- firewall
+- firewall (intrusion prevention system)
 
 What can an organization use to prevent bots from automatically submitting forms on their website?
 
@@ -17,7 +17,7 @@ Which type of authentication uses unchanging physical characteristics to success
 
 Which statement should be included in a policy that defines how data confidentiality should be implemented?
 
-- how access will be protected
+- data access must be protected from unauthorized individuals
 
 An e-commerce organization discovers that its web server was compromised using stolen credentials.
 Which solution should be implemented to protect against this type of attack?
